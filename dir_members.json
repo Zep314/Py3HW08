@@ -1,0 +1,57 @@
+{
+    "111": {
+        "parent": "c:\\_Export",
+        "is_dir": true,
+        "size": 0
+    },
+    "4345000249_40702810100009103094_000_0601.txt": {
+        "parent": "c:\\_Export",
+        "is_dir": false,
+        "size": 46918355
+    },
+    "4345000249_40702810100009103094_000_0601.zip": {
+        "parent": "c:\\_Export",
+        "is_dir": false,
+        "size": 7683336
+    },
+    "4345000249_40702810100009103094_000_0601.zip.sgn.enc": {
+        "parent": "c:\\_Export",
+        "is_dir": false,
+        "size": 7685134
+    },
+    "8612_4345000249_0523.txt": {
+        "parent": "c:\\_Export",
+        "is_dir": false,
+        "size": 46918355
+    },
+    "8612_4345000249_0523.txt.zip": {
+        "parent": "c:\\_Export",
+        "is_dir": false,
+        "size": 7683296
+    },
+    "hl-8612_4345000249_0523-dos.dbf": {
+        "parent": "c:\\_Export",
+        "is_dir": false,
+        "size": 150468911
+    },
+    "hl-8612_4345000249_0523-dos.dbf.zip": {
+        "parent": "c:\\_Export",
+        "is_dir": false,
+        "size": 10629911
+    },
+    "hl-8612_4345000249_0523-win.dbf": {
+        "parent": "c:\\_Export",
+        "is_dir": false,
+        "size": 150468911
+    },
+    "hl-8612_4345000249_0523-win.dbf.zip": {
+        "parent": "c:\\_Export",
+        "is_dir": false,
+        "size": 10628586
+    },
+    "\u0420\u041a\u0426": {
+        "parent": "c:\\_Export",
+        "is_dir": true,
+        "size": 4096
+    }
+}
